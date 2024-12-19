@@ -1,0 +1,685 @@
+{
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Viu-DwAAQBAJ",
+      "etag": "7UMuOee6lTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Viu-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pokémon Sword & Shield - Strategy Guide",
+        "authors": [
+          "GamerGuides.com"
+        ],
+        "publisher": "Gamer Guides",
+        "publishedDate": "2019-11-14",
+        "description": "Welcome to our comprehensive strategy guide for Pokémon: Sword and Shield, the latest entries in the Pokémon video game franchise. Our guide also incorporates all the DLC, including the Isle of Armor and brand new Crown Tundra DLC. In Sword and Shield, you explore the Galar region, based on the United Kingdom, alongside rivals Hop, Bede and Marnie, with the aim to dethrone the Pokémon League Champion. The games introduce several new features such as Dynamaxing and Gigantamaxing, functions that increase size and change forms of certain Pokémon; the Wild Area, a large open world with free camera movement; and raids with co-op battling. They also reintroduce features previously seen in Sun and Moon and Let's Go, Pikachu! and Let's Go, Eevee!, such as regional variants and roaming Pokémon depicted in the overworld. Brand New October 2020: - The Crown Tundra walkthrough and information. Version 1.2 - A Complete Walkthrough of the Isle of Armor. - Details of all 16 new Wild Areas, including Pokémon encounter rates. - All the new Max Raid Dens: Locations and Featured Pokémon. - Images and Locations of All 150 of the Missing Diglett. - The Isle of Armor Pokédex (featuring 100 Returning Pokémon). - Recipes for the Cram-o-matic. - A Full Walkthrough featuring Pokémon encounter rates. - All Gym Encounters and Strategies. - New Items: Mints & Natures Explained. - Post Game content including Champion Cup. - Dynamaxing and Gigantamaxing. - The Galar Region Pokédex (featuring 400 Pokemon).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781630410421"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "163041042X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1760,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.39.37.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Viu-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Viu-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=Viu-DwAAQBAJ&pg=PT82&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Viu-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Viu-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.72,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.72,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Viu-DwAAQBAJ&rdid=book-Viu-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14720000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14720000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Pok%C3%A9mon_Sword_Shield_Strategy_Guide-sample-epub.acsm?id=Viu-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Pok%C3%A9mon_Sword_Shield_Strategy_Guide-sample-pdf.acsm?id=Viu-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Viu-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Screen ELECTRIC Thunder Fang FAIRY Hyper Voice Fire Fang Mystical ... \u003cb\u003e10\u003c/b\u003e minutes Time \u003cb\u003eLimit\u003c/b\u003e Total time : 30 minutes No. of Battles Max 15 times Host GamerGuides Spring 2020 Live date 01/22/2020 &gt; No. of Battles Wins Losses Zoe&#39;s Results \u003cb\u003e0\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dcl_qdYyKE8C",
+      "etag": "xMOHo3YrG+Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dcl_qdYyKE8C",
+      "volumeInfo": {
+        "title": "Pokémon Ranger",
+        "subtitle": "The Official Nintendo Player's Guide",
+        "authors": [
+          "Casey Loe"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1598120115"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781598120110"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Nintendo video games"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dcl_qdYyKE8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dcl_qdYyKE8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=Dcl_qdYyKE8C&q=pokemon%3Fpage%3D0%3Flimit%3D10&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=Dcl_qdYyKE8C&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pok%C3%A9mon_Ranger.html?hl=&id=Dcl_qdYyKE8C"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dcl_qdYyKE8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003epage\u003c/b\u003e 15 for more information on the Electric Poké Assist . Poké Assist WATER XXO \u003cb\u003e0\u003c/b\u003e ... \u003cb\u003e10\u003c/b\u003e Minun discharges stunning electricity . Its power depends on the stored ... \u003cb\u003elimit\u003c/b\u003e to the number of friend \u003cb\u003ePokémon\u003c/b\u003e you can take with you ( see&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fAgEAAAAMBAJ",
+      "etag": "TMiRvHjE/ps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fAgEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Billboard",
+        "publishedDate": "1999-11-13",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 124,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fAgEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fAgEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=fAgEAAAAMBAJ&pg=PA19&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=fAgEAAAAMBAJ&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=fAgEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fAgEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003e10\u003c/b\u003e-million-unit mark and collect Recording Industry Assn. of America (RIAA) diamond-album certifications. Jewel&#39;s ... \u003cb\u003eLimit\u003c/b\u003e Top Dogg,&quot; No \u003cb\u003eLimit\u003c/b\u003e/ Priority, his fourth. New Radicals, &quot;Maybe You&#39;ve Been Brainwashed Too,&quot; MCA, their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JxroXYQxwgIC",
+      "etag": "+VMKNOiJiFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JxroXYQxwgIC",
+      "volumeInfo": {
+        "title": "Pokemon Yellow",
+        "subtitle": "Prima's Official Strategy Guide",
+        "authors": [
+          "Elizabeth Hollinger",
+          "James Ratkos"
+        ],
+        "publisher": "Prima Publishing",
+        "publishedDate": "1999",
+        "description": "Designed specifically for Pikachu lovers, Pokemon Yellow will follow Pinball as the next Pokemon release for Game Boy Color. This guide provides tips on where and hot to catch all 150 Pokemon, detailed maps of every area, complete Pokedex with stats and pics for every Pokemon, every machine, item, and ability outlined, and the whereabouts of every item.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0761522778"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761522775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JxroXYQxwgIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JxroXYQxwgIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=JxroXYQxwgIC&q=pokemon%3Fpage%3D0%3Flimit%3D10&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=JxroXYQxwgIC&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pokemon_Yellow.html?hl=&id=JxroXYQxwgIC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JxroXYQxwgIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003e0\u003c/b\u003e W ........ 12 X 11 \u003cb\u003e10\u003c/b\u003e xxx | x | xxx | xxx | |年 Items 1. Nugget 2. Carbos ... \u003cb\u003ePokémon\u003c/b\u003e are easy to catch with a Safari Ball ... \u003cb\u003eLimit\u003c/b\u003e ? 53/500 BALLX23 POKEDEX \u003cb\u003ePOKEMON\u003c/b\u003e ▷ ITEM ASH SAVE OPTION EXIT The numbers in the upper - left screen&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vP6ADwAAQBAJ",
+      "etag": "+nIlznBk1cs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vP6ADwAAQBAJ",
+      "volumeInfo": {
+        "title": "iPhone: The Missing Manual",
+        "subtitle": "The book that should have been in the box",
+        "authors": [
+          "David Pogue"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2018-11-06",
+        "description": "The iPhone XS, XS Max, and XR aren’t just faster and more powerful than ever—they’re also better at all of the things you use an iPhone for. With the latest edition of this bestselling guide, you get a funny, gorgeously illustrated guide to the tips, shortcuts, and workarounds that will turn you into an iPhone master. This easy-to-use book will also get you up to speed on all iOS 12 features, including new Siri shortcuts, Group FaceTime, and improved parental controls. Missing Manual series creator and former New York Times columnist David Pogue helps you accomplish everything from web browsing to watching videos. You’ll get up to speed on features such as Dual SIM Support that lets you use two lines on one phone and True Tone technology that adjusts the display to your environment. Pick up this beautiful full-color book and learn how to get the most out of your iPhone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492045786"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1492045780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 714,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vP6ADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vP6ADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=vP6ADwAAQBAJ&pg=PA386&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=vP6ADwAAQBAJ&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iPhone_The_Missing_Manual.html?hl=&id=vP6ADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vP6ADwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ePokémon\u003c/b\u003e GO , Real Racing 3 , an ... Entertainment Sonos , Porsche AR - Imagine , an ... Creativity DJI GO 4 , Clips , and \u003cb\u003e10\u003c/b\u003e more Productivity Dropbox , \u003cb\u003ePages\u003c/b\u003e , and 46 more Education Showcase , My Caterpillar , and 1 ... Reading&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hhEbAQAAMAAJ",
+      "etag": "2gsIMLKc074",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hhEbAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Canadian Books in Print 2002",
+        "authors": [
+          "Edited by Butler Marian",
+          "Marian Butler"
+        ],
+        "publishedDate": "2002-02",
+        "description": "Containing more than 48000 titles, of which approximately 4000 have a 2001 imprint, the author and title index is extensively cross-referenced. It offers a complete directory of Canadian publishers available, listing the names and ISBN prefixes, as well as the street, e-mail and web addresses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0802049745"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802049742"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1632,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hhEbAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hhEbAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=hhEbAQAAMAAJ&pg=PA1094&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=hhEbAQAAMAAJ&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canadian_Books_in_Print_2002.html?hl=&id=hhEbAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hhEbAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Lq52859V0Q0C",
+      "etag": "J5C4+OLQjkw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lq52859V0Q0C",
+      "volumeInfo": {
+        "title": "Pokémon Mystery Dungeon",
+        "subtitle": "Blue Rescue Team, Red Rescue Team : Strategy Guide",
+        "authors": [
+          "Prima Games",
+          "Prima Games Staff"
+        ],
+        "publisher": "Prima Games",
+        "publishedDate": "2006",
+        "description": "* Written by the Pok�mon Team! - The makers of the game will be writing the guide, so you can be sure nothing will be missed. * Full stats on Pok�mon - Pok�mon battle with skills that are more or less effective depending on their opponent's attributes. So it's important to know what the Pok�mon's powers are so you can choose wisely. * Complete Mission Details - Our guide will provide complete mission information, including suggestions for what Pok�mon to select. * Covers both versions - The guide will cover both adventures for the DS and GBA.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0761553827"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761553823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lq52859V0Q0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Lq52859V0Q0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=Lq52859V0Q0C&q=pokemon%3Fpage%3D0%3Flimit%3D10&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=Lq52859V0Q0C&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pok%C3%A9mon_Mystery_Dungeon.html?hl=&id=Lq52859V0Q0C"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lq52859V0Q0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Link * Supersonic \u003cb\u003e10\u003c/b\u003e/\u003cb\u003e10\u003c/b\u003e Delink Mist * Supersonic 19/19 \u003cb\u003e10\u003c/b\u003e/\u003cb\u003e10\u003c/b\u003e * Wing Attack ... \u003cb\u003e0\u003c/b\u003e Exp . Points . RANGE LV 44 NY 1137 110 Sudowoodo threw the Gravelerock ... \u003cb\u003ePOKÉMON\u003c/b\u003e. 007 THE OFFICIAL \u003cb\u003ePOKÉMON\u003c/b\u003e STRATEGY GUIDE."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qaW-UwTLBlYC",
+      "etag": "HNTPa2tBnsk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qaW-UwTLBlYC",
+      "volumeInfo": {
+        "title": "Instantly the Role Playing Game",
+        "publisher": "Haphazard Projects",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qaW-UwTLBlYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qaW-UwTLBlYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=qaW-UwTLBlYC&pg=PA76&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=qaW-UwTLBlYC&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instantly_the_Role_Playing_Game.html?hl=&id=qaW-UwTLBlYC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Instantly_the_Role_Playing_Game-sample-pdf.acsm?id=qaW-UwTLBlYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qaW-UwTLBlYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elimits\u003c/b\u003e . Monologuing during this Frenzy is a must , and internal conversation must name every victim along with their crime . 007-008 The character is a \u003cb\u003ePokemon\u003c/b\u003e , and can be directed and controlled by another player . The character must&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gggEAAAAMBAJ",
+      "etag": "ecDNza+QvDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gggEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Billboard",
+        "publishedDate": "1999-11-27",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gggEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gggEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=gggEAAAAMBAJ&pg=RA1-PA91&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=gggEAAAAMBAJ&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=gggEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gggEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003e0\u003c/b\u003e&#39;Brook, BMI/EMI April, ASCAP/Hee Bee Dooinit, ASCAP/Nineden, PRS/EMI Virgin, ASCAP/Bobby Robinson, BMI) HL/WBM 17 ... \u003cb\u003e10\u003c/b\u003e 9 11 (YOU DRIVE ME) CRAZY 48 50 17 SHE&#39;S ALL I EVER HAD BRITNEY SPEARS (JIVE) RICKY MARTIN (C2) 11 11 22&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CQ4EAAAAMBAJ",
+      "etag": "c7DfIHxTF7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CQ4EAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Billboard",
+        "publishedDate": "2000-02-19",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 108,
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CQ4EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CQ4EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=CQ4EAAAAMBAJ&pg=PA94&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=CQ4EAAAAMBAJ&dq=pokemon%3Fpage%3D0%3Flimit%3D10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=CQ4EAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CQ4EAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "TOP. ALBUMS. A-Z. (LISTED. BY. ARTISTS). BELA FLECK (Continued from \u003cb\u003epage 10\u003c/b\u003e) marketing approach that emphasizes. Charlotte ... \u003cb\u003ePokemon\u003c/b\u003e: The First Movie 110 Runaway Bride 116 Scream 3 The Album 32 The Sopranos 68 Tarzan 55 The Wood 134&nbsp;..."
+      }
+    }
+  ]
+}
